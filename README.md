@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsanjel&label=Profile%20views&color=0e75b6&style=flat" alt="rajsanjel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsanjel" alt="rajsanjel" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rajsanjel_1" target="blank"><img src="https://img.shields.io/twitter/follow/rajsanjel_1?logo=twitter&style=for-the-badge" alt="rajsanjel_1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
