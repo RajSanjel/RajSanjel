@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
-![A passionate web developer from Nepal](https://cdn.discordapp.com/attachments/711212809098231808/1243139580857683998/banner2.png?ex=66506374&is=664f11f4&hm=288dd1decf6262ef2b4e560312d159d4e0ccc0c83c30735dc77a7187296ec73a&)
+![A passionate web developer from Nepal](https://media.licdn.com/dms/image/D5616AQGKASLBUeVn6g/profile-displaybackgroundimage-shrink_350_1400/0/1717132918458?e=1722470400&v=beta&t=uYEVgD1rRx1xJGSWO2g6mJeoEHUP2EfGfCcDYcGupfY)
 
 
 - 🌱 I’m currently learning React, Typescript. 
