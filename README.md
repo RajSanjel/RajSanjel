@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React, Typescript.<br>👯 I’m looking to collaborate on any react based project.<br>🤔 I’m looking for help with making code look more cleaner.<br>😄 Pronouns: He/Him
+🌱 I’m currently learning Rust. <br>👯 I’m looking to collaborate on any react based project and rust based project where I can gorw..<br>🤔 I’m looking for help with making code look more cleaner.<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
